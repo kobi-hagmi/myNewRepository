@@ -1,3 +1,4 @@
 Hello Git
 This is a new line
 third line added in myNewRepository
+fourth line added
